@@ -24,7 +24,7 @@
 	<a href="regis" class="para2">Реєстрація</a>
   </div>
 </div>
-</div>
+
 
 
 <table>
@@ -57,16 +57,18 @@
   		<li style="text-decoration: none; cursor: not-allowed;">Хроніки
   		<li style="text-decoration: none; cursor: not-allowed;">Вака
   		<li style="text-decoration: none; cursor: not-allowed;">Кансі
+			</ul>
 	<td class="genres">
 		<ul>
   		<li style="text-decoration: none; cursor: not-allowed;">ЙосісіГе но Ясутане
-
+			</ul>
 	<td class="genres">
 		<ul>
   		<li style="text-decoration: none; cursor: not-allowed;">Хроніки
   		<li style="text-decoration: none; cursor: not-allowed;">МоноГатарі
   		<li style="text-decoration: none; cursor: not-allowed;">Дзуйхіцу
   		<li style="text-decoration: none; cursor: not-allowed;">Вака
+			</ul>
 	<td class="genres">
 		<ul>
   		<li style="text-decoration: none; cursor: not-allowed;">Г)ункі
@@ -75,15 +77,15 @@
    		<li style="text-decoration: none; cursor: not-allowed;">Фантастика
   		<li style="text-decoration: none; cursor: not-allowed;">Історичні твори
   		<li><a href="haiku" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">Хайку</a>
-
+			</ul>
 	<td class="genres">
 		<ul>
-  		<li><a href="newtime" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">(Проза)
-
+  		<li><a href="newtime" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">(Проза)</a>
+		</ul>
 	<td class="genres">
 		<ul>
   		<li style="text-decoration: none; cursor: not-allowed;">(Проза)
-
+		</ul>
 
 </tr>
 </table>
