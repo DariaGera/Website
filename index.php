@@ -53,46 +53,37 @@
 <tr>
 	<td class="genres">
 	<ul>
-  		<li style="text-decoration: none; cursor: not-allowed;">Семмьо</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Хроніки</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Вака</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Кансі</li>
-	</ul>
-	</td>
+  		<li style="text-decoration: none; cursor: not-allowed;">Семмьо
+  		<li style="text-decoration: none; cursor: not-allowed;">Хроніки
+  		<li style="text-decoration: none; cursor: not-allowed;">Вака
+  		<li style="text-decoration: none; cursor: not-allowed;">Кансі
 	<td class="genres">
 		<ul>
-  		<li style="text-decoration: none; cursor: not-allowed;">ЙосісіГе но Ясутане</li>
-	    </ul>
-	</td>
-	<td class="genres">
-		<ul>
-  		<li style="text-decoration: none; cursor: not-allowed;">Хроніки</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">МоноГатарі</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Дзуйхіцу</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Вака</li>
-	    </ul>
-	</td>
-	<td class="genres">
-		<ul>
-  		<li style="text-decoration: none; cursor: not-allowed;">Г)ункі</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Трагедії</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Комедії</li>
-   		<li style="text-decoration: none; cursor: not-allowed;">Фантастика</li>
-  		<li style="text-decoration: none; cursor: not-allowed;">Історичні твори</li>
-  		<li><a href="haiku" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">Хайку</li>
-	    </ul>
-	</td>
-	<td class="genres">
-		<ul>
-  		<li><a href="newtime" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">(Проза)</li>
+  		<li style="text-decoration: none; cursor: not-allowed;">ЙосісіГе но Ясутане
 
-	    </ul>
-	</td>
 	<td class="genres">
 		<ul>
-  		<li style="text-decoration: none; cursor: not-allowed;">(Проза)</li>
-	    </ul>
-	</td>
+  		<li style="text-decoration: none; cursor: not-allowed;">Хроніки
+  		<li style="text-decoration: none; cursor: not-allowed;">МоноГатарі
+  		<li style="text-decoration: none; cursor: not-allowed;">Дзуйхіцу
+  		<li style="text-decoration: none; cursor: not-allowed;">Вака
+	<td class="genres">
+		<ul>
+  		<li style="text-decoration: none; cursor: not-allowed;">Г)ункі
+  		<li style="text-decoration: none; cursor: not-allowed;">Трагедії
+  		<li style="text-decoration: none; cursor: not-allowed;">Комедії
+   		<li style="text-decoration: none; cursor: not-allowed;">Фантастика
+  		<li style="text-decoration: none; cursor: not-allowed;">Історичні твори
+  		<li><a href="haiku" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">Хайку</a>
+
+	<td class="genres">
+		<ul>
+  		<li><a href="newtime" style="text-decoration: none; color: rgba(65, 90, 192,0.8);">(Проза)
+
+	<td class="genres">
+		<ul>
+  		<li style="text-decoration: none; cursor: not-allowed;">(Проза)
+
 
 </tr>
 </table>
