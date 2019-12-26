@@ -1,0 +1,107 @@
+body {
+  background-image: url("minimalism.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+	margin-left: 600px;
+	display: inline;
+    font-family: cursive;
+    color: rgb(190, 117, 61);
+    font-style: oblique;
+    font-size: 40px;
+    display: inline;
+}
+h2 {
+	display: inline;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 40px;
+    display: inline;
+}
+
+#first {
+	background-color: rgb(174,54,54);
+	border: 0px solid;
+	border-radius: 250px;
+	padding: 15px;
+	display: inline-block;
+}
+.lul1 {
+	width: 105px;
+	margin-left: 10px;
+	text-align: center;
+	display: inline;
+}
+.lul2 {
+	width: 105px;
+	padding-right: 15px;
+	text-align: center;
+	display: inline;
+}
+.para1 {
+	font-family: cursive;
+	font-style: bold;
+	color: black;
+	font-size: 25px;
+	text-decoration: none;
+	text-align: center;
+	padding: 7px;
+}
+.para2 {
+	font-family: cursive;
+	font-style: bold;
+	color: black;
+	font-size: 25px;
+	text-decoration: none;
+	text-align: center;
+	padding: 7px;
+}
+div a:hover {
+	background-color: rgb(255, 220, 166);
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+.tabl{
+  background-color: rgba(255,255,255,0.3);
+	border: 0px solid black;
+	border-collapse: none;
+	text-align: center;
+	padding: 20px;
+	width: 800px;
+  height: 300px;
+  margin-left:300px;
+
+}
+table {
+	border: 0px solid;
+ 	border-collapse: collapse;
+ 	margin-top: 50px;
+ 	margin-left: 20px;
+ 	width: 1455px;
+}
+
+.haiku {
+	font-size: 30px;
+	border: 0px solid;
+	padding-bottom: 10px;
+	font-family: cursive;
+	font-style: oblique;
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+}
+p {
+	margin-top: 50px;
+	font-family: cursive;
+}
+p1 {
+	margin-top: 50px;
+	font-family: cursive;
+  font-size: 35px;
+}
+a {
+	margin-top: 30px;
+	font-family: cursive;
+  font-size: 35px;
+}

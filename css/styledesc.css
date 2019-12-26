@@ -1,0 +1,55 @@
+body {
+  background-image: url("minimalism.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#first {
+	background-color: rgb(174,54,54);
+	border: 0px solid;
+	padding: 15px;
+	border-radius: 250px;
+	display: inline-block;
+}
+#main {
+	font-family: cursive;
+	font-style: bold;
+	color:black;
+	font-size: 25px;
+	text-decoration: none;
+	text-align: center;
+	padding: 7px;
+}
+h1 {
+	margin-left: 450px;
+	display: inline;
+    font-family: cursive;
+    color: rgb(190, 117, 61);
+    font-style: oblique;
+    font-size: 40px;
+    display: inline;
+}
+#desc {
+	font-family: cursive;
+	font-style: bold;
+	font-size: 25px;
+	margin-left: 15px;
+	margin-top: 50px;
+}
+h2 {
+	margin-left: 1110px;
+    margin-top: 240px;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 30px;
+    color: rgb(190, 117, 61);
+    float: center;
+}
+div a:hover {
+	background-color: rgb(255, 220, 166);
+	border-radius: 15px;
+	cursor: pointer;
+}
+a:hover {
+	border-radius: 15px;
+	cursor: pointer;
+}
